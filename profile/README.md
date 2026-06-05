@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<a href="">
+  <img height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J4MmxpZzBqejQ2eWVtMnRtYWdzcnI3M2QzbzM5cHl1enJ0cjhtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8LVSoumYDFdo9jNEKs/giphy.gif
+"/>
+</a>
+
 # 🌐 Lenage Technologies
 
 > **Lenage Technologies empowers businesses with innovative, secure and scalable digital solutions that drive growth and create lasting impact.**
