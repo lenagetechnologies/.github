@@ -1,6 +1,8 @@
-## Hi there 👋
+<h2 align="left">Hi there 👋</h2>
 
-<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J4MmxpZzBqejQ2eWVtMnRtYWdzcnI3M2QzbzM5cHl1enJ0cjhtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8LVSoumYDFdo9jNEKs/giphy.gif"/>
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J4MmxpZzBqejQ2eWVtMnRtYWdzcnI3M2QzbzM5cHl1enJ0cjhtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8LVSoumYDFdo9jNEKs/giphy.gif"/>
 
 # 🌐 Lenage Technologies
 
@@ -24,3 +26,11 @@ Innovative IT solutions to streamline operations, improve productivity and drive
 
 ###  Technology Consulting
 Expert guidance to help you choose the right technologies and build future-ready systems.
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gentwocoder/Gentwocoder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gentwocoder/Gentwocoder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gentwocoder/Gentwocoder/output/github-snake.svg" />
+</picture>
